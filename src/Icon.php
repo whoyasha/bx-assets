@@ -1,7 +1,7 @@
 <?php
-namespace Whoyasha\Teenyicons;
+namespace Whoyasha\BxAssets;
 
-class Icon
+class Handler
 {
 	private static $instance = null;
 
