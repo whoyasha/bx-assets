@@ -1,6 +1,7 @@
 {
 	"name": "whoyasha/bx-assets",
 	"description": "SVG icons via PHP, clear bx-core css/js and other",
+	"version": "1.0.0",
 	"type": "library",
 	"license": "MIT",
 	"authors": [
