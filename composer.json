@@ -1,6 +1,6 @@
 {
 	"name": "whoyasha/bx-assets",
-	"description": "Teenyicons pack via PHP, clear bx-core css/js and other",
+	"description": "SVG icons via PHP, clear bx-core css/js and other",
 	"type": "library",
 	"license": "MIT",
 	"authors": [
